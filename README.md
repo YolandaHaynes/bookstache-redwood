@@ -1,4 +1,12 @@
-# README
+# Hello All!
+
+I am currently working on revamping my awesome project Bookstache, to a new and improved version! Come along on my journey as I learn, make mistakes, and create something wonderful. 
+
+
+“As I always say, make mistakes, make mistakes, make mistakes! It’s the best way to learn something.” - Ms. Frizzle
+
+
+## Below is more information about RedwoodJs:
 
 Welcome to [RedwoodJS](https://redwoodjs.com)!
 
